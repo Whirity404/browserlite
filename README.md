@@ -5,4 +5,4 @@
 
 已经在MineBBS发布
 
-请前往https://minminebbs.com/resources查看
+请前往https://minminebbs.com/resources/  查看
